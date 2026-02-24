@@ -1,3 +1,6 @@
+//Ejercicios_1.2.1: Sintaxis básica de Node.js
+//Alumno: [Michael Alonzo Gonzalez]
+
 // Ejercicio B. Declaración de todos los diferentes tipos de datos (variable) y mostrar sus valores en consola.
 
 // String
